@@ -1,0 +1,35 @@
+{
+  "name": "icons-primitives",
+  "version": "0.0.1",
+  "description": "Primitives from creating denined layout structures with Tailwind CSS",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup index.ts --format cjs,esm --dts",
+    "lint": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icons-studio/icons-primitives.git"
+  },
+  "keywords": [
+    "tailwind",
+    "primitives"
+  ],
+  "author": "mathewgurney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icons-studio/icons-primitives/issues"
+  },
+  "homepage": "https://github.com/icons-studio/icons-primitives#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4",
+    "@changesets/cli": "^2.26.1"
+  }
+}
