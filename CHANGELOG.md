@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.6
+
+### Patch Changes
+
+- bffd365: Removed Text from export file
+
 ## 0.2.5
 
 ### Patch Changes
