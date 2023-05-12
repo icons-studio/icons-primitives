@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.1.0
+
+### Minor Changes
+
+- Added Container export to index.ts
+
 ## 0.0.2
 
 ### Patch Changes
