@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.5
+
+### Patch Changes
+
+- 9468925: removed box from exports
+
 ## 0.2.4
 
 ### Patch Changes
