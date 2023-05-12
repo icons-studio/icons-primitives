@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.2
+
+### Patch Changes
+
+- 0bc1e11: Export paragraph
+
 ## 0.2.1
 
 ### Patch Changes
