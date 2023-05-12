@@ -9,7 +9,8 @@
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
     "release": "pnpm run build && changeset publish",
-    "lint": "tsc"
+    "lint": "tsc",
+    "ci": "pnpm run lint && pnpm run build"
   },
   "repository": {
     "type": "git",
