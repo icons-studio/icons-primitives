@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.1
+
+### Patch Changes
+
+- 6076ea6: Added Text to index.ts
+
 ## 0.2.0
 
 ### Minor Changes
