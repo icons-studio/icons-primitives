@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.0
+
+### Minor Changes
+
+- Added Section export to index.ts
+
 ## 0.1.0
 
 ### Minor Changes
@@ -13,4 +19,3 @@
 - f31781c: Workflows set up
 - e614993: Added first export
 - Updated .npmignore
-
