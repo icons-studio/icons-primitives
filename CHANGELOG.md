@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.9
+
+### Patch Changes
+
+- 10b9af7: Removed section from export file
+
 ## 0.2.8
 
 ### Patch Changes
