@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.10
+
+### Patch Changes
+
+- 0cc447f: Removed container from export file
+
 ## 0.2.9
 
 ### Patch Changes
