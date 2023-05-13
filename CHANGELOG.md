@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.7
+
+### Patch Changes
+
+- 076b60e: npmignore changes
+
 ## 0.2.6
 
 ### Patch Changes
