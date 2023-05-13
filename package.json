@@ -8,9 +8,10 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
+    "ci": "pnpm run lint && pnpm run build",
     "release": "pnpm run build && changeset publish",
-    "lint": "tsc",
-    "ci": "pnpm run lint && pnpm run build"
+    "lint": "tsc"
+    
   },
   "repository": {
     "type": "git",
