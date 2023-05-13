@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.8
+
+### Patch Changes
+
+- 76dd642: Updated scripts
+
 ## 0.2.7
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
   "name": "icons-primitives",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Primitives for creating denined layout structures with Tailwind CSS",
   "private": "false",
   "main": "dist/index.js",
@@ -11,7 +11,6 @@
     "ci": "pnpm run lint && pnpm run build",
     "release": "pnpm run build && changeset publish",
     "lint": "tsc"
-    
   },
   "repository": {
     "type": "git",
