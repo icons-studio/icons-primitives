@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.13
+
+### Patch Changes
+
+- 42c9abc: Added Container to export file
+
 ## 0.2.12
 
 ### Patch Changes
