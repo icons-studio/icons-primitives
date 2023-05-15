@@ -1,6 +1,6 @@
 {
   "name": "@iconsstudio/icons-primitives",
-  "version": "0.2.13",
+  "version": "0.3.0",
   "description": "Primitives for creating denined layout structures with Tailwind CSS",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

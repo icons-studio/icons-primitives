@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.3.0
+
+### Minor Changes
+
+- Exported remaining components from Index.ts
+
 ## 0.2.13
 
 ### Patch Changes
