@@ -1,5 +1,11 @@
 # icons-primitives
 
+## 0.2.12
+
+### Patch Changes
+
+- f3cd205: Added Box component to export file
+
 ## 0.2.10
 
 ### Patch Changes
